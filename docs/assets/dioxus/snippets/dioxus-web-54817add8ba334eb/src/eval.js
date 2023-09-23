@@ -1,3 +1,5 @@
+alert("eval.js start")
+
 export class Dioxus {
   constructor(sendCallback, returnCallback) {
     this.sendCallback = sendCallback;
@@ -39,3 +41,4 @@ export class Dioxus {
     this.received.push(data);
   }
 }
+alert("eval.js start")

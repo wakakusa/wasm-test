@@ -1,3 +1,4 @@
+alert("inline-web.js start")
 
     export function get_form_data(form) {
         let values = new Map();
@@ -9,3 +10,4 @@
 
         return values;
     }
+    alert("inline-web.js start")
