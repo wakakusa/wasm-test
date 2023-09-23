@@ -9,10 +9,10 @@
 </head>
 <body>
   <div id="main"></div>
-  <h1>test1</h1>
+  <h1>test2</h1>
   <script type="module">
-    import init from "/./assets/dioxus/name.js";
-    init("/./assets/dioxus/name_bg.wasm").then(wasm => {
+    import init from '/./assets/dioxus/name.js';
+    init('/./assets/dioxus/name_bg.wasm').then(wasm => {
       if (wasm.__wbindgen_start == undefined) {
         wasm.main();
       }
