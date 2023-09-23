@@ -1,5 +1,3 @@
-alert("common.js start")
-
 const bool_attrs = {
   allowfullscreen: true,
   allowpaymentrequest: true,
@@ -73,4 +71,3 @@ export function setAttributeInner(node, field, value, ns) {
 function truthy(val) {
   return val === "true" || val === true;
 }
-alert("common.js start")

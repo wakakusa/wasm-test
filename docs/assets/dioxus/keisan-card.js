@@ -1,4 +1,3 @@
-alert("keisan-kard.js start")
 import { create, update_memory, save_template, get_node, initilize } from './snippets/dioxus-interpreter-js-603636eeca72cf05/inline0.js';
 import { setAttributeInner } from './snippets/dioxus-interpreter-js-603636eeca72cf05/src/common.js';
 import { get_form_data } from './snippets/dioxus-web-54817add8ba334eb/inline0.js';
@@ -1475,4 +1474,3 @@ async function __wbg_init(input) {
 
 export { initSync }
 export default __wbg_init;
-alert("keisan-kard.js end")

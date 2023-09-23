@@ -1,5 +1,3 @@
-alert("inline0-i.js start")
-
 let m,p,ls,d,t,op,i,e,z,metaflags;
             
     class ListenerMap {
@@ -295,4 +293,3 @@ let m,p,ls,d,t,op,i,e,z,metaflags;
                     }
                 }
             }
-            alert("iniline-i.js start")
